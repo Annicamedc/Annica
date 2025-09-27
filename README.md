@@ -1,4 +1,4 @@
-import pandas as pd
+import  pandas as pd
 from sklearn.neighbors import NearestNeighbors
 
 # Sample dataset: meals, calories, protein, carbon footprint
