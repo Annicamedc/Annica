@@ -1,4 +1,6 @@
 ## Summary
+EcoMeal AI recommends personalized, eco-friendly meal plans based on dietary preferences, nutritional needs, and carbon footprint. Users get healthy meals that are sustainable, helping them make environmentally conscious food choices.  
+*Building AI course project*
 # EcoMeal AI
 
 Final project for the Building AI course
