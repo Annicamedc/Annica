@@ -1,3 +1,4 @@
+## Summary
 # EcoMeal AI
 
 Final project for the Building AI course
